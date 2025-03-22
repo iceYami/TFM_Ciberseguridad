@@ -1,4 +1,4 @@
-# TFM_Ciberseguridad
+# TFM Ciberseguridad
 
 ## Enlaces de las herramientas utilizadas para la realización del TFM de Ciberseguridad
 - [Ubuntu Desktop](https://ubuntu.com/download/desktop/thank-you?version=24.04.2&architecture=amd64&lts=true)  
